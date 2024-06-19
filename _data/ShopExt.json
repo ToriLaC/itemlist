@@ -1953,14 +1953,14 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "Unknown",
+        "mod": "RimWorld",
         "karmaType": null
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 3000
     },
     {
       "data": {
@@ -1975,14 +1975,14 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "Unknown",
+        "mod": "RimWorld",
         "karmaType": null
       },
-      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
-      "defName": "CreepJoiner",
+      "description": "Fluffy boi",
+      "defName": "Drifter_Yttakin",
       "enabled": true,
-      "name": "human",
-      "price": 2917
+      "name": "Yttakin",
+      "price": 3500
     }
   ]
 }

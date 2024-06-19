@@ -31,6 +31,8 @@ store:
     usage: false
     mod: true
   kinds:
+    description: true
+    stats: true
     mod: true
     karma: true
     usage: true

@@ -1961,28 +1961,6 @@
       "enabled": true,
       "name": "human",
       "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+28.8F Min comfortable temperature",
-          "+46.8F Max comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "RimWorld",
-        "karmaType": null
-      },
-      "description": "A silly bitch",
-      "defName": "Human",
-      "enabled": true,
-      "name": "TEST",
-      "price": 414312
-    },
+    }
   ]
 }

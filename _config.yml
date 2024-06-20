@@ -30,12 +30,12 @@ store:
     description: true
     usage: false
     mod: true
-  kinds:
-    description: true
-    stats: true
-    mod: true
-    karma: true
-    usage: true
+#  kinds:
+#    description: true
+#    stats: true
+#    mod: true
+#    karma: true
+#    usage: true
   items:
     category: true
     weight: true
